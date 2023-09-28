@@ -4,7 +4,7 @@ Hi! I would like to share some cybersecurity platforms, CTF, Youtube channels an
 
 <br>
 
-And if you are beginner I would suggest you to check these link before to explore this repo further.
+And if you are beginner I would suggest you to check these link before you explore this repo further.
 + [IT Basics 1](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
 + [IT Basics 2](https://www.youtube.com/playlist?list=PLG49S3nxzAnna96gzhJrzkii4hH_mgW4b)
 + [Computer Networks](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
