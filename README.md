@@ -9,7 +9,7 @@ And if you are beginner I would suggest you to check these link before to explor
 + [IT Basics 2](https://www.youtube.com/playlist?list=PLG49S3nxzAnna96gzhJrzkii4hH_mgW4b)
 + [Computer Networks](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
 + [Programming](https://www.youtube.com/watch?v=XWuP5Yf5ILI)
-+ [Linux](linuxjourney.com)
++ [Linux](www.linuxjourney.com)
 + [Security+](https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
 
 <br>
